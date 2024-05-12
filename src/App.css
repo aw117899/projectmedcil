@@ -1,0 +1,142 @@
+body{  
+  width: 100%;
+  background: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.5)); /* Gradient from red to blue */
+  /* height: 90vh; */
+  /* background-color: darkslategray; */
+  /* display: flex; */
+  /* justify-content: space-between; */
+}
+
+.headermain{
+  display: flex;
+  justify-content: space-between;
+}
+
+.imgsetd{
+  width: 90%;
+  height: 100vh;
+  /* background-color: red; */
+}
+.imgsetdl{
+  width: 100%;
+  height: 100vh;
+  /* background-color: rgb(0, 255, 191); */
+
+}
+.textsetheader{
+  width: 80%;
+  margin-right: 80px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 14%;
+  text-decoration: double;
+  
+  /* background-color: goldenrod; */
+}
+.textsetheader h1 span{
+  color: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.5));
+  color: aquamarine;
+}
+.aboutt1{
+  /* width: 30%; */
+  height: 40vh;
+  /* text-align: center; */
+  padding: 30px;
+  margin-bottom: 40px;
+  background-color: rgb(41, 102, 138);
+  color: white;
+  /* border: 1px solid black; */
+}
+.aboutt1 p{
+  font-size: 14px;
+}
+.aboutt1 h1{
+  font-size: 20px;
+}
+.aboutt1:hover{
+  background: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.5)); /* Gradient from red to blue */
+ 
+}
+.denterltext{
+  align-items: center;
+  justify-content: center;
+  padding-top: 18%;
+}
+.denterltext button{
+  background: linear-gradient(to right, rgba(167, 64, 64, 0.5), rgba(80, 80, 207, 0.5)); /* Gradient from red to blue */
+margin-left: 40px;
+margin-bottom: 90px;
+}
+.denteltextbox{
+  background: linear-gradient(to right, rgba(201, 102, 102, 0.5), rgba(133, 133, 235, 0.5)); /* Gradient from red to blue */
+  margin: 0px 40px;
+  /* color: white; */
+  color: rgb(206, 203, 207);
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.denteltextbox h4{
+  color: rgb(233, 236, 238);
+}
+
+.dantelformleft{
+  color: whitesmoke;
+}
+.dantelformleft h4{
+  color: rgb(250, 240, 240);
+}
+.deantalformright{
+  color: rgb(235, 230, 230);
+}
+.deantelformrig p{
+  padding: 18px;
+  /* padding-top: 30px; */
+  /* border: 1px solid rgb(105, 81, 212); */
+  text-align: center;
+  font-size: 26px;
+  border-radius: 40px;
+  color: rgb(112, 3, 185);
+}
+.deantelform{
+  font-size: 20px;
+  padding: 18px;
+
+}
+
+.inputset label{
+  width: 100%;
+  padding-top: 20px;
+}
+
+.inputset input{
+  width: 60%;
+}
+
+.formdata{
+  width: 100%;
+  background-color: aqua;
+  margin: 20px;
+  padding: 20px;
+}
+
+.formdarasubmit{
+  display: flex;
+  align-items: center;
+  /* justify-content: space-evenly; */
+  /* font-size: 20px; */
+}
+.formdarasubmit p{
+  padding-left: 20px;
+}
+.formdarasubmit span{
+  color: red;
+}
+.table-dark{
+  /* display: block; */
+  background-color: none;
+}
+.tablebackground{
+  background-color: red !important;
+  border-radius: 39px;
+}
